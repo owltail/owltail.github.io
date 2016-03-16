@@ -28,38 +28,24 @@
 <itunes:category text="News and Politics"/>
 
 <item>
-		<title>Episode 37: Startup Decision-Making and ROI w/Hiten Shah</title>
-		<link>http://www.chasingproduct.com/episodes/episode-37-startup-decision-making-and-roi-whiten-shah</link>
-		<comments>http://www.chasingproduct.com/episodes/episode-37-startup-decision-making-and-roi-whiten-shah#comments</comments>
-		<pubDate>Tue, 01 Mar 2016 17:25:59 +0000</pubDate>
-		<creator>chris@chasingproduct.com</creator>
-				<category><![CDATA[Episodes]]></category>
-		<category><![CDATA[bootstrapped]]></category>
-		<category><![CDATA[consulting]]></category>
-		<category><![CDATA[copywriting]]></category>
-		<category><![CDATA[freelancing]]></category>
-		<category><![CDATA[launching a product]]></category>
-		<category><![CDATA[Marketing]]></category>
-		<category><![CDATA[Saas]]></category>
-		<category><![CDATA[small product]]></category>
-		<category><![CDATA[systemizing]]></category>
-
-		<guid isPermaLink="false">http://www.chasingproduct.com/?p=574</guid>
-		<description><![CDATA[<p>In this episode, Quick Sprout and Kiss Metrics founder Hiten Shah talks about early SEO consulting, finding the ROI in a startup, and more. Bootstrapped Product Talking Points Why you need good distribution AND good product Why innovation isn&#8217;t necessarily a priority The importance of managing expectations How patterns aid startup decision-making Hi there! To
-<p><a class="read-more" href="http://www.chasingproduct.com/episodes/episode-37-startup-decision-making-and-roi-whiten-shah">Read More</a></p>
-<p>The post <a rel="nofollow" href="http://www.chasingproduct.com/episodes/episode-37-startup-decision-making-and-roi-whiten-shah">Episode 37: Startup Decision-Making and ROI w/Hiten Shah</a> appeared first on <a rel="nofollow" href="http://www.chasingproduct.com">Chasing Product</a>.</p>
-]]></description>
-		<commentRss>http://www.chasingproduct.com/episodes/episode-37-startup-decision-making-and-roi-whiten-shah/feed</commentRss>
-		<slash:comments>2</slash:comments>
-<enclosure url="http://media.blubrry.com/chasingproduct/content.blubrry.com/chasingproduct/chasing-product-037-hiten-shah.mp3" length="31381097" type="audio/mpeg" />
-		<itunes:subtitle>In this episode, Quick Sprout and Kiss Metrics founder Hiten Shah talks about early SEO consulting, finding the ROI in a startup, and more. Bootstrapped Product Talking Points Why you need good distribution AND good product Why innovation isn’t necessa...</itunes:subtitle>
-		<itunes:summary>In this episode, Quick Sprout and Kiss Metrics founder Hiten Shah talks about early SEO consulting, finding the ROI in a startup, and more. Bootstrapped Product Talking Points Why you need good distribution AND good product Why innovation isn’t necessarily a priority The importance of managing expectations How patterns aid startup decision-making Hi there! To Read More</itunes:summary>
-		<itunes:author>Christopher Hawkins</itunes:author>
-		<itunes:image href="http://www.chasingproduct.com/wp-content/uploads/powerpress/Chasing-Product-Cover-1400.png" />
-		<itunes:duration>63:00</itunes:duration>
-	<content url="http://bit.ly/1LSTgiy" fileSize="31381097" type="audio/mpeg" /><itunes:explicit>no</itunes:explicit><itunes:keywords>bootstrapping,startups,saas,consulting,freelancing,marketing,software</itunes:keywords></item>
-		<item>
-
+<title>
+Episode 37: Startup Decision-Making and ROI w/Hiten Shah
+</title>
+<description>
+In this episode, Quick Sprout and Kiss Metrics founder Hiten Shah talks about early SEO consulting, finding the ROI in a startup, and more. Bootstrapped Product Talking Points Why you need good distribution AND good product Why innovation isn&#8217;t necessarily a priority The importance of managing expectations How patterns aid startup decision-making
+</description>
+<pubDate>Tue, 01 Mar 2016 17:25:59 +0000<</pubDate>
+<itunes:author>Christopher Hawkins</itunes:author>
+<itunes:subtitle>
+Bill Gates on stopping climate change, building robots, and the best books he's read
+</itunes:subtitle>
+<itunes:summary>
+In this episode, Quick Sprout and Kiss Metrics founder Hiten Shah talks about early SEO consulting, finding the ROI in a startup, and more. Bootstrapped Product Talking Points Why you need good distribution AND good product Why innovation isn’t necessa...
+</itunes:summary>
+<itunes:duration>63:00</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<enclosure url="http://bit.ly/1LSTgiy" length="31381097" type="audio/mp3"/>
+</item>
 
 
 <item>
@@ -170,5 +156,6 @@ Bill Gates is one of those people for whom "needs no introduction" is actually t
 </guid>
 <enclosure url="https://bit.ly/21gisRE" length="29209078" type="audio/mp3"/>
 </item>
+
 </channel>
 </rss>
