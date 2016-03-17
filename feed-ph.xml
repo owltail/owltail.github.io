@@ -27,26 +27,6 @@
 <itunes:category text="Business"/>
 <itunes:category text="News and Politics"/>
 
-<item>
-<title>
-Episode 37: Startup Decision-Making and ROI w/Hiten Shah
-</title>
-<description>
-In this episode, Quick Sprout and Kiss Metrics founder Hiten Shah talks about early SEO consulting, finding the ROI in a startup, and more. Bootstrapped Product Talking Points Why you need good distribution AND good product Why innovation isn&#8217;t necessarily a priority The importance of managing expectations How patterns aid startup decision-making
-</description>
-<pubDate>Tue, 01 Mar 2016 17:25:59 +0000</pubDate>
-<itunes:author>Christopher Hawkins</itunes:author>
-<itunes:subtitle>
-Bill Gates on stopping climate change, building robots, and the best books he's read
-</itunes:subtitle>
-<itunes:summary>
-In this episode, Quick Sprout and Kiss Metrics founder Hiten Shah talks about early SEO consulting, finding the ROI in a startup, and more. Bootstrapped Product Talking Points Why you need good distribution AND good product Why innovation isn’t necessa...
-</itunes:summary>
-<itunes:duration>63:00</itunes:duration>
-<itunes:explicit>no</itunes:explicit>
-<enclosure url="http://bit.ly/1LSTgiy" length="31381097" type="audio/mp3"/>
-</item>
-
 
 <item>
 <title>
@@ -74,6 +54,27 @@ In our third episode, we interview <a href="http://www.angel.co/jason">Jason Cal
 no
 </itunes:explicit>
 <enclosure url="http://bit.ly/21ybsQj" length="230831180" type="audio/mpeg"/>
+</item>
+
+
+<item>
+<title>
+Episode 37: Startup Decision-Making and ROI w/Hiten Shah
+</title>
+<description>
+In this episode, Quick Sprout and Kiss Metrics founder Hiten Shah talks about early SEO consulting, finding the ROI in a startup, and more. Bootstrapped Product Talking Points Why you need good distribution AND good product Why innovation isn&#8217;t necessarily a priority The importance of managing expectations How patterns aid startup decision-making
+</description>
+<pubDate>Tue, 01 Mar 2016 17:25:59 +0000</pubDate>
+<itunes:author>Christopher Hawkins</itunes:author>
+<itunes:subtitle>
+Bill Gates on stopping climate change, building robots, and the best books he's read
+</itunes:subtitle>
+<itunes:summary>
+In this episode, Quick Sprout and Kiss Metrics founder Hiten Shah talks about early SEO consulting, finding the ROI in a startup, and more. Bootstrapped Product Talking Points Why you need good distribution AND good product Why innovation isn’t necessa...
+</itunes:summary>
+<itunes:duration>63:00</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<enclosure url="http://bit.ly/1LSTgiy" length="31381097" type="audio/mp3"/>
 </item>
 
 
