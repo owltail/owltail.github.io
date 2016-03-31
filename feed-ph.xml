@@ -27,6 +27,34 @@
 <itunes:category text="Business"/>
 <itunes:category text="News and Politics"/>
 
+
+<item>
+<title>
+Smart People Should Build Things: The Venture for America Podcast
+</title>
+<description>
+<![CDATA[Building things is really hard and entrepreneurship is often portrayed in the media as the &ldquo;sexy,&rdquo; or even worse, &ldquo;easy&rdquo; career path. Rarely do we hear the real stories of struggle, resiliency, and even failure &ndash; the stress of staying just ahead of payroll, the cost of making the wrong hire (or the transformation that comes with the right one), the sacrifices of personal time, the heartache of the wrong investment in a new product/service and much more.]]>
+</description>
+<pubDate>Thu, 24 Mar 2016 19:50:20 +0000</pubDate>
+<itunes:author>
+CBS Local
+</itunes:author>
+<itunes:subtitle>
+Building things is really hard and entrepreneurship is often portrayed in the media as the &ldquo;sexy,&rdquo; or even worse, &ldquo;easy&rdquo; career path. Rarely do we hear the real stories of struggle, resiliency, and even failure &ndash; the stress of staying just ahead of payroll, the cost of making the wrong hire (or the transformation that comes with the right one), the sacrifices of personal time, the heartache of the wrong investment in a new product/service and much more.
+</itunes:subtitle>
+<itunes:summary>
+Building things is really hard and entrepreneurship is often portrayed in the media as the &ldquo;sexy,&rdquo; or even worse, &ldquo;easy&rdquo; career path. Rarely do we hear the real stories of struggle, resiliency, and even failure &ndash; the stress of staying just ahead of payroll, the cost of making the wrong hire (or the transformation that comes with the right one), the sacrifices of personal time, the heartache of the wrong investment in a new product/service and much more.
+</itunes:summary>
+<itunes:duration>
+2765
+</itunes:duration>
+<itunes:explicit>
+no
+</itunes:explicit>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/podtrackstg.radio.com/pts/nyc.podcast.play.it/media/d0/d0/d1/dB/dA/dO/dG/1BAOG_3.MP3?show=Smart+People+Should+Build+Things:+The+Venture+for+America+Podcast&category=Business&callsign=PlayIt&market=national&awCollectionId=1266&awEpisodeId=614539" length="44241815" type="audio/mpeg"/>
+</item>
+
+
 <item>
 <title>
 E632: Parker Thompson, a.k.a., Startup L. Jackson, on creating his wildly popular Twitter persona
@@ -34,7 +62,7 @@ E632: Parker Thompson, a.k.a., Startup L. Jackson, on creating his wildly popula
 <description>
 <![CDATA[In episode 632 of This Week in Startups, Jason sits down with Parker Thompson, creator of popular parody Twitter account Startup L. Jackson, current partner at AngelList, and previous partner at 500 Startups. Topics of conversation range from the inspiration behind Startup L. Jackson to having ‘sharp elbows’ on the internet, from diversity in entrepreneurship and investment to how AngelList syndicates and equity crowdfunding rules are changing the venture capital landscape.]]>
 </description>
-<pubDate>Thu, 23 Mar 2016 15:12:36 +0000</pubDate>
+<pubDate>Wed, 23 Mar 2016 15:12:36 +0000</pubDate>
 <itunes:author>
 Parker Thompson
 </itunes:author>
