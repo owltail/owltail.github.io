@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<channel>
+<title>Product Hunt - The Best Of</title>
+<description>
+<![CDATA[The Best Of Product Hunt ~ Roughly 2 Podcasts Per Week]]>
+</description>
+<language>en</language>
+<pubdate>Fri, 17 Jun 2016 02:46:17 +0000</pubdate>
+<lastBuildDate>Fri, 17 Jun 2016 02:46:17 +0000</lastBuildDate>
+<image>
+<url>https://s32.postimg.org/jwl8vpj05/Product_Hunt_Best_Of_002.jpg</url>
+</image>
+<itunes:explicit>no</itunes:explicit>
+<itunes:subtitle>Product Hunt - The Best Of</itunes:subtitle>
+<itunes:author>Various Artists</itunes:author>
+<itunes:summary>
+<![CDATA[The Best Podcasts As Recommended By Product Hunt - https://www.producthunt.com/podcasts]]>
+</itunes:summary>
+<itunes:keywords>producthunt,product hunt,hunt,product</itunes:keywords>
+<itunes:owner>
+  <itunes:name>Product Hunt - The Best Of</itunes:name>
+  <itunes:email>producthunt.bestof@gmail.com</itunes:email>
+</itunes:owner>
+<itunes:image href="https://s32.postimg.org/jwl8vpj05/Product_Hunt_Best_Of_002.jpg"/>
+<itunes:category text="Technology"/>
+<itunes:category text="Business"/>
+<itunes:category text="News and Politics"/>
+
+
+<item>
+<title>
+a16z Podcast: An Economics Take on the Sharing Economy
+</title>
+<description>
+Future of Work discussion with Arun Sundararajan
+</description>
+<pubDate>Thu, 16 Jun 2016 14:30:29 +0000</pubDate>
+<itunes:author>
+a16z
+</itunes:author>
+<itunes:subtitle>
+Love the term or hate it, the concept and reality…
+</itunes:subtitle>
+<itunes:summary>
+Love the term or hate it, the concept and reality of the "sharing economy" (or "gig economy" and so on) is here to stay. And in fact, argues NYU Stern professor and researcher Arun Sundararajan, it may even reduce the income distribution gap between the haves and have-nots in a way that previous shifts -- like the Industrial Revolution and traditional 20th century institutions -- never did. How?
+</itunes:summary>
+<itunes:duration>
+00:28:09
+</itunes:duration>
+<itunes:explicit>
+no
+</itunes:explicit>
+<enclosure type="audio/mpeg" url="http://dts.podtrac.com/redirect.mp3/http://feeds.soundcloud.com/stream/269403724-a16z-sharing-economy.mp3" length="20276812"/>
+</item>
+
+
+
+
+<item>
+<title>
+AngelList Radio: Interview with Jason Calacanis: Investor in Uber
+</title>
+<description>
+In our third episode, we interview <a href="http://www.angel.co/jason">Jason Calacanis</a> and learn the best way to allocate capital at the seed-stage and how to use syndicates to improve your odds as a new investor.
+</description>
+<pubDate>Thu, 17 Mar 2016 12:18:47 +0000</pubDate>
+<itunes:author>
+AngelList
+</itunes:author>
+<itunes:subtitle>
+Weekly interviews with top investors
+</itunes:subtitle>
+<itunes:summary>
+In our third episode, we interview <a href="http://www.angel.co/jason">Jason Calacanis</a> and learn the best way to allocate capital at the seed-stage and how to use syndicates to improve your odds as a new investor.
+</itunes:summary>
+<itunes:duration>
+01:36:11
+</itunes:duration>
+<itunes:explicit>
+no
+</itunes:explicit>
+<enclosure type="audio/mpeg" url="http://dts.podtrac.com/redirect.mp3/http://feeds.soundcloud.com/stream/193033774-product-hunt-product-hunt-radio-episode-35-w-jason-calacanis.mp3" length="59637843"/>
+</item>
+
+
+<item>
+<title>
+Episode 37: Startup Decision-Making and ROI w/Hiten Shah
+</title>
+<description>
+In this episode, Quick Sprout and Kiss Metrics founder Hiten Shah talks about early SEO consulting, finding the ROI in a startup, and more. Bootstrapped Product Talking Points Why you need good distribution AND good product Why innovation isn&#8217;t necessarily a priority The importance of managing expectations How patterns aid startup decision-making
+</description>
+<pubDate>Tue, 01 Mar 2016 17:25:59 +0000</pubDate>
+<itunes:author>Christopher Hawkins</itunes:author>
+<itunes:subtitle>
+Bill Gates on stopping climate change, building robots, and the best books he's read
+</itunes:subtitle>
+<itunes:summary>
+In this episode, Quick Sprout and Kiss Metrics founder Hiten Shah talks about early SEO consulting, finding the ROI in a startup, and more. Bootstrapped Product Talking Points Why you need good distribution AND good product Why innovation isn’t necessa...
+</itunes:summary>
+<itunes:duration>63:00</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<enclosure url="http://dts.podtrac.com/redirect.mp3/http://media.blubrry.com/chasingproduct/content.blubrry.com/chasingproduct/chasing-product-037-hiten-shah.mp3" length="31381097" type="audio/mp3"/>
+</item>
+
+
+</channel>
+</rss>
