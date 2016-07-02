@@ -51,7 +51,7 @@ Love the term or hate it, the concept and reality of the "sharing economy" (or "
 <itunes:explicit>
 no
 </itunes:explicit>
-<enclosure type="audio/mpeg" url="http://dts.podtrac.com/redirect.mp3/http://feeds.soundcloud.com/stream/269403724-a16z-sharing-economy.mp3" length="20276812"/>
+<enclosure type="audio/mpeg" url="http://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/269403724-a16z-sharing-economy.mp3" length="20276812"/>
 </item>
 
 
@@ -80,7 +80,7 @@ In our third episode, we interview <a href="http://www.angel.co/jason">Jason Cal
 <itunes:explicit>
 no
 </itunes:explicit>
-<enclosure type="audio/mpeg" url="http://dts.podtrac.com/redirect.mp3/http://feeds.soundcloud.com/stream/193033774-product-hunt-product-hunt-radio-episode-35-w-jason-calacanis.mp3" length="59637843"/>
+<enclosure type="audio/mpeg" url="http://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/193033774-product-hunt-product-hunt-radio-episode-35-w-jason-calacanis.mp3" length="59637843"/>
 </item>
 
 
@@ -101,7 +101,7 @@ In this episode, Quick Sprout and Kiss Metrics founder Hiten Shah talks about ea
 </itunes:summary>
 <itunes:duration>63:00</itunes:duration>
 <itunes:explicit>no</itunes:explicit>
-<enclosure url="http://dts.podtrac.com/redirect.mp3/http://media.blubrry.com/chasingproduct/content.blubrry.com/chasingproduct/chasing-product-037-hiten-shah.mp3" length="31381097" type="audio/mp3"/>
+<enclosure url="http://dts.podtrac.com/redirect.mp3/media.blubrry.com/chasingproduct/content.blubrry.com/chasingproduct/chasing-product-037-hiten-shah.mp3" length="31381097" type="audio/mp3"/>
 </item>
 
 
