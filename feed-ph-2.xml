@@ -6,8 +6,12 @@
 <![CDATA[The Best Of Product Hunt ~ Roughly 2 Podcasts Per Week]]>
 </description>
 <language>en</language>
-<pubdate>Fri, 17 Jun 2016 02:46:17 +0000</pubdate>
-<lastBuildDate>Fri, 17 Jun 2016 02:46:17 +0000</lastBuildDate>
+<pubdate>
+  Mon, 11 Jul 2016 06:35:55 +0000
+  </pubdate>
+<lastBuildDate>
+  Mon, 11 Jul 2016 06:35:55 +0000
+  </lastBuildDate>
 <image>
 <url>https://s32.postimg.org/jwl8vpj05/Product_Hunt_Best_Of_002.jpg</url>
 </image>
@@ -26,6 +30,36 @@
 <itunes:category text="Technology"/>
 <itunes:category text="Business"/>
 <itunes:category text="News and Politics"/>
+
+<item>
+<title>
+The Twenty Minute VC: Albert Wenger, Partner @ Union Square Ventures
+</title>
+<description>
+Albert Wenger is a partner at Union Square Ventures, one of the world's leading VC firms with investments in Twitter, Twilio, Zynga, Soundcloud, Tumblr, Lending Club and many more.
+</description>
+<pubDate>
+Mon, 11 Jul 2016 06:35:55 +0000
+</pubDate>
+<itunes:author>
+Harry Stebbings
+</itunes:author>
+<itunes:subtitle>
+Albert Wenger is a partner at Union Square Ventures, one of the world's leading VC firms with investments in Twitter, Twilio, Zynga, Soundcloud, Tumblr, Lending Club and many more.
+</itunes:subtitle>
+<itunes:summary>
+Albert Wenger is a partner at Union Square Ventures, one of the world's leading VC firms with investments in Twitter, Twilio, Zynga, Soundcloud, Tumblr, Lending Club and many more.
+</itunes:summary>
+<itunes:duration>
+29:17
+</itunes:duration>
+<itunes:explicit>
+no
+</itunes:explicit>
+<enclosure type="audio/mpeg" url="http://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/thetwentyminutevc/59_20VC__Frank_Mycroft_Founder__Booster_Fuels.mp3" length="24621782"/>
+</item>
+
+
 
 
 <item>
