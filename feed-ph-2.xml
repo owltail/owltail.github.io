@@ -7,10 +7,10 @@
 </description>
 <language>en</language>
 <pubdate>
-  Mon, 11 Jul 2016 06:35:55 +0000
+Thu, 21 Jul 2016 14:30:29 +0000
   </pubdate>
 <lastBuildDate>
-  Mon, 11 Jul 2016 06:35:55 +0000
+Thu, 21 Jul 2016 14:30:29 +0000
   </lastBuildDate>
 <image>
 <url>https://s32.postimg.org/jwl8vpj05/Product_Hunt_Best_Of_002.jpg</url>
@@ -30,6 +30,35 @@
 <itunes:category text="Technology"/>
 <itunes:category text="Business"/>
 <itunes:category text="News and Politics"/>
+
+
+<item>
+<title>
+Recode Media - Gary Vaynerchuk
+</title>
+<description>
+Gary Vaynerchuk can't wait for the startup armageddon
+</description>
+<pubDate>Thu, 21 Jul 2016 14:30:29 +0000</pubDate>
+<itunes:author>
+Recode Media
+</itunes:author>
+<itunes:subtitle>
+Gary Vaynerchuk can't wait for the startup armageddon
+</itunes:subtitle>
+<itunes:summary>
+Gary Vaynerchuk can't wait for the startup armageddon
+</itunes:summary>
+<itunes:duration>
+00:22:09
+</itunes:duration>
+<itunes:explicit>
+no
+</itunes:explicit>
+<enclosure type="audio/mpeg" url="http://dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/8f72142b-0a7f-4ba8-b0e9-62c55d58be2a.mp3"" length="20276812"/>
+</item>
+
+
 
 <item>
 <title>
