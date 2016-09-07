@@ -7,10 +7,10 @@ The Best Of Product Hunt ~ Roughly 2 Podcasts Per Week. Copyright is owned by th
 </description>
 <language>en</language>
 <pubdate>
-Thu, 1 Sep 2016 09:00:00 +0000
+Mon, 5 Sep 2016 09:00:00 +0000
   </pubdate>
 <lastBuildDate>
-Thu, 1 Sep 2016 09:00:00 +0000
+Mon, 5 Sep 2016 09:00:00 +0000
   </lastBuildDate>
 <image>
 <url>http://i.imgur.com/gCLMCmf.jpg</url>
@@ -30,6 +30,28 @@ Thu, 1 Sep 2016 09:00:00 +0000
 <itunes:category text="Technology"/>
 <itunes:category text="Business"/>
 <itunes:category text="News and Politics"/>
+
+
+<item>
+<title>
+Recode Decode: Quip CEO Bret Taylor: Companies die when they're afraid to fail
+</title>
+<description>
+Quip CEO and Twitter board member Bret Taylor talks with Recode's Kara Swisher and Kurt Wagner about the reality of trying and sometimes failing as an entrepreneur in Silicon Valley. A former Facebook CTO, he reflects on how Mark Zuckerberg's company culture balanced good execution with a willingness to fail. Taylor also discusses Quip's $750 million acquisition by Salesforce.
+</description>
+<pubDate>Mon, 5 Sep 2016 09:00:00 +0000</pubDate>
+<itunes:author>Recode</itunes:author>
+<itunes:subtitle>
+Quip CEO and Twitter board member Bret Taylor talks with Recode's Kara Swisher and Kurt Wagner about the reality of trying and sometimes failing as an entrepreneur in Silicon Valley. A former Facebook CTO, he reflects on how Mark Zuckerberg's company culture balanced good execution with a willingness to fail. Taylor also discusses Quip's $750 million acquisition by Salesforce.
+</itunes:subtitle>
+<itunes:summary>
+Quip CEO and Twitter board member Bret Taylor talks with Recode's Kara Swisher and Kurt Wagner about the reality of trying and sometimes failing as an entrepreneur in Silicon Valley. A former Facebook CTO, he reflects on how Mark Zuckerberg's company culture balanced good execution with a willingness to fail. Taylor also discusses Quip's $750 million acquisition by Salesforce.
+</itunes:summary>
+<itunes:duration>00:56:17</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/rss.art19.com/episodes/a5c8f092-dca0-4506-91a8-5b83e6816233.mp3" length="54084336"/>
+</item>
+
 
 
 <item>
