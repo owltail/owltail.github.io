@@ -7,10 +7,10 @@ The Best Of Product Hunt ~ Roughly 2 Podcasts Per Week. Copyright is owned by th
 </description>
 <language>en</language>
 <pubdate>
-Mon, 5 Sep 2016 09:00:00 +0000
+Sat, 10 Sep 2016 09:00:00 +0000
   </pubdate>
 <lastBuildDate>
-Mon, 5 Sep 2016 09:00:00 +0000
+Sat, 10 Sep 2016 09:00:00 +0000
   </lastBuildDate>
 <image>
 <url>http://i.imgur.com/gCLMCmf.jpg</url>
@@ -30,6 +30,28 @@ Mon, 5 Sep 2016 09:00:00 +0000
 <itunes:category text="Technology"/>
 <itunes:category text="Business"/>
 <itunes:category text="News and Politics"/>
+
+
+<item>
+<title>
+Bloomberg Politics: Evan Williams - cofounder of Twitter, Medium and Blogger
+</title>
+<description>
+Evan Williams, Medium's chief executive officer and co-founder of Twitter, discusses the use of social media by presidential candidates, the growing concerns surrounding online harassment and the future of Twitter. He speaks with Bloomberg's Emily Chang on "Bloomberg West."
+</description>
+<pubDate>Sat, 10 Sep 2016 09:00:00 +0000</pubDate>
+<itunes:author>Bloomberg Politics</itunes:author>
+<itunes:subtitle>
+Evan Williams, Medium's chief executive officer and co-founder of Twitter, discusses the use of social media by presidential candidates, the growing concerns surrounding online harassment and the future of Twitter. He speaks with Bloomberg's Emily Chang on "Bloomberg West."
+</itunes:subtitle>
+<itunes:summary>
+Evan Williams, Medium's chief executive officer and co-founder of Twitter, discusses the use of social media by presidential candidates, the growing concerns surrounding online harassment and the future of Twitter. He speaks with Bloomberg's Emily Chang on "Bloomberg West."
+</itunes:summary>
+<itunes:duration>00:25:04</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/282384578-amazing-articles-bloomberg-politics-twitter-medium-blogger-co-founder-evan-williams.mp3" length="0"/>
+</item>
+
 
 
 <item>
