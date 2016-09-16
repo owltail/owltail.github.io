@@ -7,10 +7,10 @@ The Best Of Product Hunt ~ Roughly 2 Podcasts Per Week. Copyright is owned by th
 </description>
 <language>en</language>
 <pubdate>
-Tue, 13 Sep 2016 09:00:00 +0000
+Fri, 16 Sep 2016 09:00:00 +0000
   </pubdate>
 <lastBuildDate>
-Tue, 13 Sep 2016 09:00:00 +0000
+Fri, 16 Sep 2016 09:00:00 +0000
   </lastBuildDate>
 <image>
 <url>http://i.imgur.com/gCLMCmf.jpg</url>
@@ -30,6 +30,29 @@ Tue, 13 Sep 2016 09:00:00 +0000
 <itunes:category text="Technology"/>
 <itunes:category text="Business"/>
 <itunes:category text="News and Politics"/>
+
+
+<item>
+<title>
+Zen Founder: Air Freshener for your Brain
+</title>
+<description>
+Sherry talks about one of the psychological theories she often comes back to in her interactions with founders. Its called cognitive theory, a focus on understanding how thoughts shape our behaviors.
+</description>
+<pubDate>Fri, 16 Sep 2016 09:00:00 +0000</pubDate>
+<itunes:author>Rob & Sherry Walling</itunes:author>
+<itunes:subtitle>
+Sherry talks about one of the psychological theories she often comes back to in her interactions with founders. Its called cognitive theory, a focus on understanding how thoughts shape our behaviors.
+</itunes:subtitle>
+<itunes:summary>
+Sherry talks about one of the psychological theories she often comes back to in her interactions with founders. Its called cognitive theory, a focus on understanding how thoughts shape our behaviors.
+</itunes:summary>
+<itunes:duration>16:04</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/zenfounder/www.zenfounder.com/audio/ZenFounder-80.mp3" length="15481563"/>
+</item>
+
+
 
 
 <item>
