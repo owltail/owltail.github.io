@@ -7,10 +7,10 @@ The Best Of Product Hunt ~ Roughly 2 Podcasts Per Week. Copyright is owned by th
 </description>
 <language>en</language>
 <pubdate>
-Tue, 20 Sep 2016 09:00:00 +0000
+Fri, 23 Sep 2016 09:00:00 +0000
   </pubdate>
 <lastBuildDate>
-Tue, 20 Sep 2016 09:00:00 +0000
+Fri, 23 Sep 2016 09:00:00 +0000
   </lastBuildDate>
 <image>
 <url>http://i1.sndcdn.com/avatars-000223161690-h4ffih-original.jpg</url>
@@ -30,6 +30,28 @@ Tue, 20 Sep 2016 09:00:00 +0000
 <itunes:category text="Technology"/>
 <itunes:category text="Business"/>
 <itunes:category text="News and Politics"/>
+
+
+<item>
+<title>
+Becoming SuperHuman: David Heinemeier Hansson: An Interview With A Real-World SuperLearner
+</title>
+<description>
+Today we are joined by a real-life superhuman - a man who has risen to prominence in not just one, but two extremely competitive arenas. David Heinemeier Hansson, better known as “DHH,” is a software developer, entrepreneur, and race-car driver from Denmark. He’s most known for his company, Basecamp, and for developing the popular Ruby on Rails web development framework that has taken the world of web development by storm. In 2005, he was recognized as “Hacker of the Year” by Google and O’Reilly.
+</description>
+<pubDate>Fri, 23 Sep 2016 09:00:00 +0000</pubDate>
+<itunes:author>Recode</itunes:author>
+<itunes:subtitle>
+Today we are joined by a real-life superhuman - a man who has risen to prominence in not just one, but two extremely competitive arenas. David Heinemeier Hansson, better known as “DHH,” is a software developer, entrepreneur, and race-car driver from Denmark. He’s most known for his company, Basecamp, and for developing the popular Ruby on Rails web development framework that has taken the world of web development by storm. In 2005, he was recognized as “Hacker of the Year” by Google and O’Reilly.
+</itunes:subtitle>
+<itunes:summary>
+Today we are joined by a real-life superhuman - a man who has risen to prominence in not just one, but two extremely competitive arenas. David Heinemeier Hansson, better known as “DHH,” is a software developer, entrepreneur, and race-car driver from Denmark. He’s most known for his company, Basecamp, and for developing the popular Ruby on Rails web development framework that has taken the world of web development by storm. In 2005, he was recognized as “Hacker of the Year” by Google and O’Reilly.
+</itunes:summary>
+<itunes:duration>58:17</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/becomingasuperhuman/Ep._86_-_David_Heinemeier_Hansson_-_An_Interview_With_A_Real-World_SuperLearner.mp3" length="42388549"/>
+</item>
+
 
 
 
