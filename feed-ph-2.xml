@@ -7,10 +7,10 @@ The Best Of Product Hunt ~ Roughly 2 Podcasts Per Week. Copyright is owned by th
 </description>
 <language>en</language>
 <pubdate>
-Sat, 01 Oct 2016 09:00:00 +0000
+Tue, 04 Oct 2016 09:00:00 +0000
   </pubdate>
 <lastBuildDate>
-Sat, 01 Oct 2016 09:00:00 +0000
+Tue, 04 Oct 2016 09:00:00 +0000
   </lastBuildDate>
 <image>
 <url>http://i1.sndcdn.com/avatars-000223161690-h4ffih-original.jpg</url>
@@ -31,6 +31,27 @@ Sat, 01 Oct 2016 09:00:00 +0000
 <itunes:category text="Business"/>
 <itunes:category text="News and Politics"/>
 
+  
+<item>
+<title>
+How I Built This: Instagram - Kevin Systrom & Mike Krieger
+</title>
+<description>
+Kevin Systrom and Mike Krieger launched their photo-sharing app with a server that crashed every other hour. Despite a chaotic start, Instagram became one of the most popular apps in the world.
+</description>
+<pubDate>Tue, 04 Oct 2016 12:00:00 -0000</pubDate>
+<itunes:author>NPR</itunes:author>
+<itunes:subtitle>
+Kevin Systrom and Mike Krieger launched their photo-sharing app with a server that crashed every other hour. Despite a chaotic start, Instagram became one of the most popular apps in the world.
+</itunes:subtitle>
+<itunes:summary>
+Kevin Systrom and Mike Krieger launched their photo-sharing app with a server that crashed every other hour. Despite a chaotic start, Instagram became one of the most popular apps in the world.
+</itunes:summary>
+<itunes:duration>1795</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/npr.mc.tritondigital.com/NPR_510313/media/anon.npr-mp3/npr/hibt/2016/09/20160914_hibt_epi2.mp3" length="0" type="audio/mp3"/>
+</item>
+  
 
 <item>
 <title>
