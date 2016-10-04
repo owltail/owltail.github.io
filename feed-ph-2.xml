@@ -47,9 +47,9 @@ Kevin Systrom and Mike Krieger launched their photo-sharing app with a server th
 <itunes:summary>
 Kevin Systrom and Mike Krieger launched their photo-sharing app with a server that crashed every other hour. Despite a chaotic start, Instagram became one of the most popular apps in the world.
 </itunes:summary>
-<itunes:duration>1795</itunes:duration>
+<itunes:duration>30:10</itunes:duration>
 <itunes:explicit>no</itunes:explicit>
-<enclosure url="http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/286058684-best-of-tech-startups-how-i-built-this-instagram-kevin-systrom-mike-krieger.mp3" length="28890730" type="audio/mp3"/>
+<enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/286058684-best-of-tech-startups-how-i-built-this-instagram-kevin-systrom-mike-krieger.mp3" length="28890730"/>
 </item>
   
 
