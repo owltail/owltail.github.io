@@ -7,10 +7,10 @@ The Best Of Product Hunt ~ Roughly 2 Podcasts Per Week. Copyright is owned by th
 </description>
 <language>en</language>
 <pubdate>
-Tue, 11 Oct 2016 09:00:00 +0000
+Sat, 15 Oct 2016 09:00:00 +0000
   </pubdate>
 <lastBuildDate>
-Tue, 11 Oct 2016 09:00:00 +0000
+Sat, 15 Oct 2016 09:00:00 +0000
   </lastBuildDate>
 <image>
 <url>http://i1.sndcdn.com/avatars-000223161690-h4ffih-original.jpg</url>
@@ -31,6 +31,30 @@ Tue, 11 Oct 2016 09:00:00 +0000
 <itunes:category text="Business"/>
 <itunes:category text="News and Politics"/>
 
+ 
+  
+  
+<item>
+<title>
+Y Combinator - How to Build the Future: Sam Altman
+</title>
+<description>
+Technology companies have become a powerful way to build the future. Our goal with this series is to share advice about how you can do it, too.
+</description>
+<pubDate>Sat, 15 Oct 2016 09:00:00 +0000</pubDate>
+<itunes:author>Y Combinator</itunes:author>
+<itunes:subtitle>
+Technology companies have become a powerful way to build the future. Our goal with this series is to share advice about how you can do it, too.
+</itunes:subtitle>
+<itunes:summary>
+Technology companies have become a powerful way to build the future. Our goal with this series is to share advice about how you can do it, too.
+</itunes:summary>
+<itunes:duration>00:21:09</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/284814964-ycombinator-how-to-build-the-future-sam-altman.mp3" length="0"/>
+</item>
+  
+  
   
 <item>
 <title>
@@ -51,8 +75,6 @@ Chris Sacca &amp; Matt Mazzeo of Lowercase Capital join Jason in L.A. for a roll
 <itunes:explicit>no</itunes:explicit>
 <enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/media.blubrry.com/startups/cdn3.thisweekinstartups.com/startups/itunes/TWiST-E676.mp3" length="56439084"/>
 </item>  
-
-  
   
 
 <item>
