@@ -7,10 +7,10 @@ The Best Of Product Hunt ~ Roughly 2 Podcasts Per Week. Copyright is owned by th
 </description>
 <language>en</language>
 <pubdate>
-Tue, 18 Oct 2016 09:00:00 +0000
+Sat, 22 Oct 2016 09:00:00 +0000
   </pubdate>
 <lastBuildDate>
-Tue, 18 Oct 2016 09:00:00 +0000
+Sat, 22 Oct 2016 09:00:00 +0000
   </lastBuildDate>
 <image>
 <url>http://i1.sndcdn.com/avatars-000223161690-h4ffih-original.jpg</url>
@@ -31,6 +31,27 @@ Tue, 18 Oct 2016 09:00:00 +0000
 <itunes:category text="Business"/>
 <itunes:category text="News and Politics"/>
 
+  
+  
+<item>
+<title>
+Freakonomics Radio: Why Are We Still Using Cash?
+</title>
+<description>
+It facilitates crime, bribery, and tax evasion -- and yet some governments (including ours) are printing more cash than ever. Other countries, meanwhile, are ditching cash entirely.
+</description>
+<pubDate>Sat, 22 Oct 2016 09:00:00 +0000</pubDate>
+<itunes:author>Tony Brown and Vinay Patankar</itunes:author>
+<itunes:subtitle>
+It facilitates crime, bribery, and tax evasion -- and yet some governments (including ours) are printing more cash than ever. Other countries, meanwhile, are ditching cash entirely.
+</itunes:subtitle>
+<itunes:summary>
+It facilitates crime, bribery, and tax evasion -- and yet some governments (including ours) are printing more cash than ever. Other countries, meanwhile, are ditching cash entirely.
+</itunes:summary>
+<itunes:duration>00:42:59</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/audio.wnyc.org/freakonomics_podcast/freakonomics_podcast092816.mp3" length="0"/>
+</item>
 
   
   
