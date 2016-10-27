@@ -7,10 +7,10 @@ The Best Of Product Hunt ~ Roughly 2 Podcasts Per Week. Copyright is owned by th
 </description>
 <language>en</language>
 <pubdate>
-Mon, 24 Oct 2016 09:00:00 +0000
+Thu, 27 Oct 2016 09:00:00 +0000
   </pubdate>
 <lastBuildDate>
-Mon, 24 Oct 2016 09:00:00 +0000
+Thu, 27 Oct 2016 09:00:00 +0000
   </lastBuildDate>
 <image>
 <url>http://i1.sndcdn.com/avatars-000223161690-h4ffih-original.jpg</url>
@@ -31,6 +31,27 @@ Mon, 24 Oct 2016 09:00:00 +0000
 <itunes:category text="Business"/>
 <itunes:category text="News and Politics"/>
 
+<item>
+<title>
+Growth Everywhere - How Bestselling Author Ramit Sethi Generated $5M in 6 Days
+</title>
+<description>
+In this episode, Eric speaks to @ramit, author of the books I Will Teach You How to be Rich and Growth Lab. We discuss the process that led to his $5M week, why you need to get off the Internet in order to be great at marketing, how he grew his blog audience to 1M readers per month and turned it into a revenue generating business, and why good information is nothing if you don’t deliver it to people in a way they want to receive it.
+</description>
+<pubDate>Thu, 27 Oct 2016 09:00:00 +0000</pubDate>
+<itunes:author>Eric Siu. Get Marketing &amp; Personal Growth Lessons From Entrepreneurs Such As Pat Flynn, Neil Patel, John Lee Dumas &amp; More! Similar to Mixergy, Entrepreneur on Fire, The Top, Lewis Howes, Amy Porterfield and more!</itunes:author>
+<itunes:subtitle>
+In this episode, Eric speaks to @ramit, author of the books I Will Teach You How to be Rich and Growth Lab. We discuss the process that led to his $5M week, why you need to get off the Internet in order to be great at marketing, how he grew his blog audience to 1M readers per month and turned it into a revenue generating business, and why good information is nothing if you don’t deliver it to people in a way they want to receive it.
+</itunes:subtitle>
+<itunes:summary>
+In this episode, Eric speaks to @ramit, author of the books I Will Teach You How to be Rich and Growth Lab. We discuss the process that led to his $5M week, why you need to get off the Internet in order to be great at marketing, how he grew his blog audience to 1M readers per month and turned it into a revenue generating business, and why good information is nothing if you don’t deliver it to people in a way they want to receive it.
+</itunes:summary>
+<itunes:duration>49:59</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/growtheverywhere/Ramit_Sethi.mp3?dest-id=168719" length="41982926"/>
+</item>
+  
+  
 <item>
 <title>
 Wait But Why: How (and Why) SpaceX Will Colonize Mars
