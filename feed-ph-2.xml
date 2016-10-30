@@ -7,10 +7,10 @@ The Best Of Product Hunt ~ Roughly 2 Podcasts Per Week. Copyright is owned by th
 </description>
 <language>en</language>
 <pubdate>
-Thu, 27 Oct 2016 09:00:00 +0000
+Sat, 29 Oct 2016 09:00:00 +0000
   </pubdate>
 <lastBuildDate>
-Thu, 27 Oct 2016 09:00:00 +0000
+Sat, 29 Oct 2016 09:00:00 +0000
   </lastBuildDate>
 <image>
 <url>http://i1.sndcdn.com/avatars-000223161690-h4ffih-original.jpg</url>
@@ -31,6 +31,29 @@ Thu, 27 Oct 2016 09:00:00 +0000
 <itunes:category text="Business"/>
 <itunes:category text="News and Politics"/>
 
+  
+<item>
+<title>
+How I Built This: VICE Founder, Suroosh Alvi
+</title>
+<description>
+Suroosh Alvi was a recovering addict when he started a scrappy underground magazine in Montreal. It grew into VICE Media — a multi-billion dollar company that has shaken up the world of journalism.
+</description>
+<pubDate>Sat, 29 Oct 2016 09:00:00 +0000</pubDate>
+<itunes:author>NPR</itunes:author>
+<itunes:subtitle>
+Suroosh Alvi was a recovering addict when he started a scrappy underground magazine in Montreal. It grew into VICE Media — a multi-billion dollar company that has shaken up the world of journalism.
+</itunes:subtitle>
+<itunes:summary>
+Suroosh Alvi was a recovering addict when he started a scrappy underground magazine in Montreal. It grew into VICE Media — a multi-billion dollar company that has shaken up the world of journalism.
+</itunes:summary>
+<itunes:duration>2224</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/npr.mc.tritondigital.com/NPR_510313/media/anon.npr-mp3/npr/hibt/2016/10/20161006_hibt_vice.mp3" length="0"/>
+</item>
+  
+  
+  
 <item>
 <title>
 Growth Everywhere - How Bestselling Author Ramit Sethi Generated $5M in 6 Days
