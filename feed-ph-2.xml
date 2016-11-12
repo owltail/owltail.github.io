@@ -7,10 +7,10 @@ The Best Of Product Hunt ~ Roughly 2 Podcasts Per Week. Copyright is owned by th
 </description>
 <language>en</language>
 <pubdate>
-Wed, 9 Nov 2016 09:00:00 +0000
+Fri, 11 Nov 2016 09:00:00 +0000
   </pubdate>
 <lastBuildDate>
-Wed, 9 Nov 2016 09:00:00 +0000
+Fri, 11 Nov 2016 09:00:00 +0000
   </lastBuildDate>
 <image>
 <url>http://i1.sndcdn.com/avatars-000223161690-h4ffih-original.jpg</url>
@@ -31,6 +31,28 @@ Wed, 9 Nov 2016 09:00:00 +0000
 <itunes:category text="Business"/>
 <itunes:category text="News and Politics"/>
 
+  
+<item>
+<title>
+Recode Decode: Why Ashton Kutcher didn't invest in Snapchat
+</title>
+<description>
+Actor, producer and investor Ashton Kutcher talks with Recode's Kara Swisher about his life as both a TV star and a tech obsessive.
+</description>
+<pubDate>Fri, 11 Nov 2016 09:00:00 +0000</pubDate>
+<itunes:author>Recode</itunes:author>
+<itunes:subtitle>
+Actor, producer and investor Ashton Kutcher talks with Recode's Kara Swisher about his life as both a TV star and a tech obsessive.
+</itunes:subtitle>
+<itunes:summary>
+Actor, producer and investor Ashton Kutcher talks with Recode's Kara Swisher about his life as both a TV star and a tech obsessive.
+</itunes:summary>
+<itunes:duration>59:31</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/rss.art19.com/episodes/e937bc11-8d65-4572-b996-9c938b7dc6c2.mp3" length="57141289"/>
+</item>
+  
+  
 <item>
 <title>
 Freakonomics Radio: This Is Your Brain on Podcasts
