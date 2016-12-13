@@ -7,10 +7,10 @@ The Best Of Product Hunt ~ Roughly 2 Podcasts Per Week. Copyright is owned by th
 </description>
 <language>en</language>
 <pubdate>
-Sun, 11 Dec 2016 09:00:00 +0000
+Tue, 13 Dec 2016 09:00:00 +0000
   </pubdate>
 <lastBuildDate>
-Sun, 11 Dec 2016 09:00:00 +0000
+Tue, 13 Dec 2016 09:00:00 +0000
   </lastBuildDate>
 <image>
 <url>http://i1.sndcdn.com/avatars-000223161690-h4ffih-original.jpg</url>
@@ -31,6 +31,27 @@ Sun, 11 Dec 2016 09:00:00 +0000
 <itunes:category text="Business"/>
 <itunes:category text="News and Politics"/>
 
+<item>
+<title>
+Recode Decode: Vic Gundotra - Wearables can save your life
+</title>
+<description>
+AliveCor CEO Vic Gundotra talks with Recode's Kara Swisher about his long career in tech, including his start as a college dropout at Microsoft and his seven years leading Google's mobile and social efforts.
+</description>
+<pubDate>Tue, 13 Dec 2016 09:00:00 +0000</pubDate>
+<itunes:author>Recode</itunes:author>
+<itunes:subtitle>
+AliveCor CEO Vic Gundotra talks with Recode's Kara Swisher about his long career in tech, including his start as a college dropout at Microsoft and his seven years leading Google's mobile and social efforts.
+</itunes:subtitle>
+<itunes:summary>
+AliveCor CEO Vic Gundotra talks with Recode's Kara Swisher about his long career in tech, including his start as a college dropout at Microsoft and his seven years leading Google's mobile and social efforts.
+</itunes:summary>
+<itunes:duration>01:02:30</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/rss.art19.com/episodes/1b4113d5-d12d-4acc-a002-e28d1cf59c30.mp3" length="60005564"/>
+</item>
+  
+  
 <item>
 <title>
 How I Built This: Mark Cuban
