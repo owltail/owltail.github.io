@@ -7,10 +7,10 @@ The Best Of Product Hunt ~ Roughly 2 Podcasts Per Week. Copyright is owned by th
 </description>
 <language>en</language>
 <pubdate>
-Tue, 13 Dec 2016 09:00:00 +0000
+Thu, 15 Dec 2016 09:00:00 +0000
   </pubdate>
 <lastBuildDate>
-Tue, 13 Dec 2016 09:00:00 +0000
+Thu, 15 Dec 2016 09:00:00 +0000
   </lastBuildDate>
 <image>
 <url>http://i1.sndcdn.com/avatars-000223161690-h4ffih-original.jpg</url>
@@ -31,6 +31,28 @@ Tue, 13 Dec 2016 09:00:00 +0000
 <itunes:category text="Business"/>
 <itunes:category text="News and Politics"/>
 
+  
+<item>
+<title>
+The Ezra Klein Show: Stripe CEO Patrick Collison on management, rationalism, and the enlightenment
+</title>
+<description>
+Patrick Collison is the 28-year-old CEO of Stripe, the online payments company that was just valued at $9 billion. Haven't heard of Stripe? You've probably used it. Last year, 40 percent of people who bought something online used Stripe's payment systems.
+</description>
+<pubDate>Thu, 15 Dec 2016 09:00:00 +0000</pubDate>
+<itunes:author>Vox / Panoply</itunes:author>
+<itunes:subtitle>
+Patrick Collison is the 28-year-old CEO of Stripe, the online payments company that was just valued at $9 billion. Haven't heard of Stripe? You've probably used it. Last year, 40 percent of people who bought something online used Stripe's payment systems.
+</itunes:subtitle>
+<itunes:summary>
+Patrick Collison is the 28-year-old CEO of Stripe, the online payments company that was just valued at $9 billion. Haven't heard of Stripe? You've probably used it. Last year, 40 percent of people who bought something online used Stripe's payment systems.
+</itunes:summary>
+<itunes:duration>5236</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/PP6605010983.mp3" length="62839640"/>
+</item>
+  
+  
 <item>
 <title>
 Recode Decode: Vic Gundotra - Wearables can save your life
