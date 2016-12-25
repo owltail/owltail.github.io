@@ -7,10 +7,10 @@ The Best Of Product Hunt ~ Roughly 2 Podcasts Per Week. Copyright is owned by th
 </description>
 <language>en</language>
 <pubdate>
-Thu, 23 Dec 2016 09:00:00 +0000
+Sun, 25 Dec 2016 09:00:00 +0000
   </pubdate>
 <lastBuildDate>
-Thu, 23 Dec 2016 09:00:00 +0000
+Sun, 25 Dec 2016 09:00:00 +0000
   </lastBuildDate>
 <image>
 <url>http://i1.sndcdn.com/avatars-000223161690-h4ffih-original.jpg</url>
@@ -30,6 +30,27 @@ Thu, 23 Dec 2016 09:00:00 +0000
 <itunes:category text="Technology"/>
 <itunes:category text="Business"/>
 <itunes:category text="News and Politics"/>
+
+
+<item>
+<title>
+StartUp Podcast: Dov Charney - Anger
+</title>
+<description>
+In the spring of 2014, the American Apparel board offered Dov Charney two options: forfeit your position as CEO and stay on as a creative consultant or be removed from the company entirely. Charney chose the latter, and it became big news.
+</description>
+<pubDate>Sun, 25 Dec 2016 09:00:00 +0000</pubDate>
+<itunes:author>Gimlet</itunes:author>
+<itunes:subtitle>
+In the spring of 2014, the American Apparel board offered Dov Charney two options: forfeit your position as CEO and stay on as a creative consultant or be removed from the company entirely. Charney chose the latter, and it became big news.
+</itunes:subtitle>
+<itunes:summary>
+In the spring of 2014, the American Apparel board offered Dov Charney two options: forfeit your position as CEO and stay on as a creative consultant or be removed from the company entirely. Charney chose the latter, and it became big news.
+</itunes:summary>
+<itunes:duration>3450</itunes:duration>
+<itunes:explicit>yes</itunes:explicit>
+<enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/GLT3019472394.mp3" length="82819866"/>
+</item>
 
   
 <item>
