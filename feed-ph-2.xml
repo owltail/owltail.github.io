@@ -7,10 +7,10 @@ The Best Of Product Hunt ~ Roughly 2 Podcasts Per Week. Copyright is owned by th
 </description>
 <language>en</language>
 <pubdate>
-Thu, 29 Dec 2016 09:00:00 +0000
+Sun, 01 Jan 2017 09:00:00 +0000
   </pubdate>
 <lastBuildDate>
-Thu, 29 Dec 2016 09:00:00 +0000
+TSun, 01 Jan 2017 09:00:00 +0000
   </lastBuildDate>
 <image>
 <url>http://i1.sndcdn.com/avatars-000223161690-h4ffih-original.jpg</url>
@@ -31,6 +31,27 @@ Thu, 29 Dec 2016 09:00:00 +0000
 <itunes:category text="Business"/>
 <itunes:category text="News and Politics"/>
 
+  
+<item>
+<title>
+The Top Entrepreneurs: B2B SaaS DiscoverOrg Passes $70M ARR with CEO Henry Schuck
+</title>
+<description>
+Nathan interviews @HenryLSchuck, CEO of DiscoverOrg. He’s a leading entrepreneur in sales intelligence and lead generation. Under his leadership, DiscoverOrg built the industry’s most accurate, highest quality, contact database through a mix of technology and a team of live researchers who continually call into thousands of IT, marketing, HR, and finance departments.
+</description>
+<pubDate>Sun, 01 Jan 2017 09:00:00 +0000</pubDate>
+<itunes:author>Nathan Latka</itunes:author>
+<itunes:subtitle>
+Nathan interviews @HenryLSchuck, CEO of DiscoverOrg. He’s a leading entrepreneur in sales intelligence and lead generation. Under his leadership, DiscoverOrg built the industry’s most accurate, highest quality, contact database through a mix of technology and a team of live researchers who continually call into thousands of IT, marketing, HR, and finance departments.
+</itunes:subtitle>
+<itunes:summary>
+Nathan interviews @HenryLSchuck, CEO of DiscoverOrg. He’s a leading entrepreneur in sales intelligence and lead generation. Under his leadership, DiscoverOrg built the industry’s most accurate, highest quality, contact database through a mix of technology and a team of live researchers who continually call into thousands of IT, marketing, HR, and finance departments.
+</itunes:summary>
+<itunes:duration>39:25</itunes:duration>
+<itunes:explicit>yes</itunes:explicit>
+<enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/nathanlatkathetop/TT.512.SchuckFNL.mp3" length="37255253"/>
+</item>
+  
 <item>
 <title>
 The Twenty Minute VC: Parker Thompson, Partner @ AngelList
