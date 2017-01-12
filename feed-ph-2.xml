@@ -7,10 +7,10 @@ The Best Of Product Hunt ~ Roughly 2 Podcasts Per Week. Copyright is owned by th
 </description>
 <language>en</language>
 <pubdate>
-Tue, 10 Jan 2017 09:00:00 +0000
+Thu, 12 Jan 2017 09:00:00 +0000
   </pubdate>
 <lastBuildDate>
-Tue, 10 Jan 2017 09:00:00 +0000
+Thu, 12 Jan 2017 09:00:00 +0000
   </lastBuildDate>
 <image>
 <url>http://i1.sndcdn.com/avatars-000223161690-h4ffih-original.jpg</url>
@@ -31,6 +31,28 @@ Tue, 10 Jan 2017 09:00:00 +0000
 <itunes:category text="Business"/>
 <itunes:category text="News and Politics"/>
 
+<item>
+<title>
+a16z Podcast: How to Be Original and Make Big Ideas Happen
+</title>
+<description>
+From Aaron Sorkin to Steve Jobs to Meredith Perry and Elon Musk, "original" thinkers -- such as entrepreneurs -- do a lot of different things to move the world to their visions.
+</description>
+<pubDate>Thu, 12 Jan 2017 09:00:00 +0000</pubDate>
+<itunes:author>a16z</itunes:author>
+<itunes:subtitle>
+From Aaron Sorkin to Steve Jobs to Meredith Perry and Elon Musk, "original" thinkers -- such as entrepreneurs -- do a lot of different things to move the world to their visions.
+</itunes:subtitle>
+<itunes:summary>
+From Aaron Sorkin to Steve Jobs to Meredith Perry and Elon Musk, "original" thinkers -- such as entrepreneurs -- do a lot of different things to move the world to their visions.
+</itunes:summary>
+<itunes:duration>00:39:36</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/245099055-a16z-originals.mp3" length="28511966"/>
+</item>
+  
+  
+  
 <item>
 <title>
 Exponent: Episode 099 — Fate Has a Sense of Irony
