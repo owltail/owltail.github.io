@@ -7,10 +7,10 @@ The Best Of Product Hunt ~ Roughly 2 Podcasts Per Week. Copyright is owned by th
 </description>
 <language>en</language>
 <pubdate>
-Thu, 12 Jan 2017 09:00:00 +0000
+Sun, 15 Jan 2017 09:00:00 +0000
   </pubdate>
 <lastBuildDate>
-Thu, 12 Jan 2017 09:00:00 +0000
+Sun, 15 Jan 2017 09:00:00 +0000
   </lastBuildDate>
 <image>
 <url>http://i1.sndcdn.com/avatars-000223161690-h4ffih-original.jpg</url>
@@ -31,6 +31,28 @@ Thu, 12 Jan 2017 09:00:00 +0000
 <itunes:category text="Business"/>
 <itunes:category text="News and Politics"/>
 
+
+<item>
+<title>
+Recode Decode: Doctors should think like mechanics (Othman Laraki, CEO, Color)
+  </title>
+<description>
+Color Genomics co-founder and CEO Othman Laraki talks with Recode's Kara Swisher about why we're on the verge of a healthcare revolution. Laraki, whose company tests buyers' genes for certain hereditary cancers, says the future of medicine will be defined by our ability to read data from our bodies.
+</description>
+<pubDate>Sun, 15 Jan 2017 09:00:00 +0000</pubDate>
+<itunes:author>Recode</itunes:author>
+<itunes:subtitle>
+Color Genomics co-founder and CEO Othman Laraki talks with Recode's Kara Swisher about why we're on the verge of a healthcare revolution. Laraki, whose company tests buyers' genes for certain hereditary cancers, says the future of medicine will be defined by our ability to read data from our bodies.
+</itunes:subtitle>
+<itunes:summary>
+Color Genomics co-founder and CEO Othman Laraki talks with Recode's Kara Swisher about why we're on the verge of a healthcare revolution. Laraki, whose company tests buyers' genes for certain hereditary cancers, says the future of medicine will be defined by our ability to read data from our bodies.
+</itunes:summary>
+<itunes:duration>00:42:12</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/rss.art19.com/episodes/deded1b6-9fde-4aad-b60a-b776038db5f8.mp3" length="40514873"/>
+</item>
+  
+  
 <item>
 <title>
 a16z Podcast: How to Be Original and Make Big Ideas Happen
