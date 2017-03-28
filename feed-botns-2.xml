@@ -4,8 +4,8 @@
     <atom:link href="http://feeds.soundcloud.com/users/soundcloud:users:248722812/sounds.rss?before=279180686" rel="next" type="application/rss+xml"/>
     <title>Best Of Tech &amp; Startups</title>
     <link>http://soundcloud.com/best-of-tech-startups</link>
-    <pubDate>Tue, 28 Mar 2017 22:19:04 +0000</pubDate>
-    <lastBuildDate>Tue, 28 Mar 2017 22:19:04 +0000</lastBuildDate>
+    <pubDate>Tue, 28 Mar 2017 09:00:00 +0000</pubDate>
+    <lastBuildDate>Tue, 28 Mar 2017 09:00:00 +0000</lastBuildDate>
     <ttl>60</ttl>
     <language>en</language>
     <copyright>All rights reserved</copyright>
@@ -27,7 +27,9 @@ Copyright is owned by the publisher, not this podcast, audio is streamed directl
       <link>http://soundcloud.com/best-of-tech-startups</link>
     </image>
     <itunes:category text="Technology"/>
+  
     
+   
 <item>
 <title>
 Internet History: Chamath Palihapitiya @chamath on Facebook, AIM and WinAmp
