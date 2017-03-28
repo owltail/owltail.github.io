@@ -29,28 +29,29 @@ Copyright is owned by the publisher, not this podcast, audio is streamed directl
     <itunes:category text="Technology"/>
   
     
-   
+    
 <item>
 <title>
 Internet History: Chamath Palihapitiya @chamath on Facebook, AIM and WinAmp
 </title>
-<pubDate>
-Tue, 28 Mar 2017 22:19:04 +0000
-</pubDate>
+<description>
+Most of you know Chamath Palihapitiya as one of the most prominent and progressive venture capitalists working today. But before forming Social Capital, Chamath was an early employee at a startup we've already covered, WinAmp; was the head of AOL's Instant Messenger product; and of course, was an early employee at Facebook.
+</description>
+<pubDate>Tue, 28 Mar 2017 09:00:00 +0000</pubDate>
+<itunes:author>Brian McCullough @brianmcc</itunes:author>
+<itunes:subtitle>
+Most of you know Chamath Palihapitiya as one of the most prominent and progressive venture capitalists working today. But before forming Social Capital, Chamath was an early employee at a startup we've already covered, WinAmp; was the head of AOL's Instant Messenger product; and of course, was an early employee at Facebook.
+</itunes:subtitle>
+<itunes:summary>
+Most of you know Chamath Palihapitiya as one of the most prominent and progressive venture capitalists working today. But before forming Social Capital, Chamath was an early employee at a startup we've already covered, WinAmp; was the head of AOL's Instant Messenger product; and of course, was an early employee at Facebook.
+</itunes:summary>
 <itunes:duration>56:14</itunes:duration>
- <itunes:author>Brian McCullough @brianmcc</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
- <itunes:summary>
- Most of you know Chamath Palihapitiya as one of the most prominent and progressive venture capitalists working today. But before forming Social Capital, Chamath was an early employee at a startup we've already covered, WinAmp; was the head of AOL's Instant Messenger product; and of course, was an early employee at Facebook.
-  </itunes:summary>
-  <itunes:subtitle>
-Most of you know Chamath Palihapitiya as one of the most prominent and progressive venture capitalists working today. But before forming Social Capital, Chamath was an early employee at a startup we've already covered, WinAmp; was the head of AOL's Instant Messenger product; and of course, was an early employee at Facebook.
-  </itunes:subtitle>
-  <description>
-Most of you know Chamath Palihapitiya as one of the most prominent and progressive venture capitalists working today. But before forming Social Capital, Chamath was an early employee at a startup we've already covered, WinAmp; was the head of AOL's Instant Messenger product; and of course, was an early employee at Facebook.
-  </description>
-  <enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/internethistorypodcast/121._Chamath_Palihapitiya_chamath_on_Facebook_AIM_and_WinAmp.mp3" length="40830819"/>
-  </item>   
+<itunes:explicit>no</itunes:explicit>
+<enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/internethistorypodcast/121._Chamath_Palihapitiya_chamath_on_Facebook_AIM_and_WinAmp.mp3" length="40830819"/>
+</item>
+    
+    
+ 
     
     
     
