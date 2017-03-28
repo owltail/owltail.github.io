@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
+    <atom:link href="http://feeds.soundcloud.com/users/soundcloud:users:248722812/sounds.rss" rel="self" type="application/rss+xml"/>
+    <atom:link href="http://feeds.soundcloud.com/users/soundcloud:users:248722812/sounds.rss?before=279180686" rel="next" type="application/rss+xml"/>
     <title>Best Of Tech &amp; Startups</title>
-    <pubDate>Thu, 23 Mar 2017 20:08:41 +0000</pubDate>
-    <lastBuildDate>Thu, 23 Mar 2017 20:08:41 +0000</lastBuildDate>
+    <link>http://soundcloud.com/best-of-tech-startups</link>
+    <pubDate>Tue, 28 Mar 2017 22:19:04 +0000</pubDate>
+    <lastBuildDate>Tue, 28 Mar 2017 22:19:04 +0000</lastBuildDate>
     <ttl>60</ttl>
     <language>en</language>
     <copyright>All rights reserved</copyright>
+    <webMaster>feeds@soundcloud.com (SoundCloud Feeds)</webMaster>
     <description>Curating &amp; reposting the ~2 best podcasts per week from the likes of a16z, recode, Tim Ferriss, TED, etc. 
 There are simply too many good podcasts out there, let us pick the best two each week for you. 
 Copyright is owned by the publisher, not this podcast, audio is streamed directly from publisher's servers.</description>
@@ -20,9 +24,49 @@ Copyright is owned by the publisher, not this podcast, audio is streamed directl
     <image>
       <url>http://i1.sndcdn.com/avatars-000247541827-5y7ul7-original.jpg</url>
       <title>Best Of Tech &amp; Startups</title>
+      <link>http://soundcloud.com/best-of-tech-startups</link>
     </image>
     <itunes:category text="Technology"/>
-    <itunes:category text="Business"/>
+    
+<item>
+<title>
+Internet History: Chamath Palihapitiya @chamath on Facebook, AIM and WinAmp
+</title>
+<pubDate>
+Tue, 28 Mar 2017 22:19:04 +0000
+</pubDate>
+<itunes:duration>56:14</itunes:duration>
+ <itunes:author>Brian McCullough @brianmcc</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+ <itunes:summary>
+ Most of you know Chamath Palihapitiya as one of the most prominent and progressive venture capitalists working today. But before forming Social Capital, Chamath was an early employee at a startup we've already covered, WinAmp; was the head of AOL's Instant Messenger product; and of course, was an early employee at Facebook.
+  </itunes:summary>
+  <itunes:subtitle>
+Most of you know Chamath Palihapitiya as one of the most prominent and progressive venture capitalists working today. But before forming Social Capital, Chamath was an early employee at a startup we've already covered, WinAmp; was the head of AOL's Instant Messenger product; and of course, was an early employee at Facebook.
+  </itunes:subtitle>
+  <description>
+Most of you know Chamath Palihapitiya as one of the most prominent and progressive venture capitalists working today. But before forming Social Capital, Chamath was an early employee at a startup we've already covered, WinAmp; was the head of AOL's Instant Messenger product; and of course, was an early employee at Facebook.
+  </description>
+  <enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/internethistorypodcast/121._Chamath_Palihapitiya_chamath_on_Facebook_AIM_and_WinAmp.mp3" length="40830819"/>
+  </item>   
+    
+    
+    
+    
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/314605113</guid>
+      <title>Eztra Klein: Yuval Harari, author of “Sapiens,” on AI, religion, and 60-day meditation retreats</title>
+      <pubDate>Sun, 26 Mar 2017 22:19:04 +0000</pubDate>
+      <link>https://soundcloud.com/best-of-tech-startups/eztra-klein-yuval-harari-author-of-sapiens-on-ai-religion-and-60-day-meditation-retreats</link>
+      <itunes:duration>01:10:36</itunes:duration>
+      <itunes:author>Best Of Tech &amp; Startups</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Yuval Noah Harari’s first book, “Sapiens,” was an international sensation. The Israeli historian’s mind-bending tour through the trump of Homo sapiens is a favorite of, among others, Bill Gates, Mark Zuckerberg, and Barack Obama. His new book, Homo Deus, is about what comes next for humanity — and the threat our own intelligence and creative capacity poses to our future. And it, too, is fantastically interesting. I’ve wanted to talk to Harari since reading Sapiens. I’ve had one big question about him: what kind of mind creates a book like that? And now I know. A clear one.</itunes:summary>
+      <itunes:subtitle>Yuval Noah Harari’s first book, “Sapiens,” was an…</itunes:subtitle>
+      <description>Yuval Noah Harari’s first book, “Sapiens,” was an international sensation. The Israeli historian’s mind-bending tour through the trump of Homo sapiens is a favorite of, among others, Bill Gates, Mark Zuckerberg, and Barack Obama. His new book, Homo Deus, is about what comes next for humanity — and the threat our own intelligence and creative capacity poses to our future. And it, too, is fantastically interesting.&amp;nbsp;&lt;br&gt;&lt;br&gt;I’ve wanted to talk to Harari since reading Sapiens. I’ve had one big question about him: what kind of mind creates a book like that? And now I know. A clear one.</description>
+      <enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/314605113-best-of-tech-startups-eztra-klein-yuval-harari-author-of-sapiens-on-ai-religion-and-60-day-meditation-retreats.mp3" length="0"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000214785840-iey0qf-original.jpg"/>
+    </item>
     <item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/314143018</guid>
       <title>How I Built This: Atari &amp; Chuck E. Cheese's: Nolan Bushnell</title>
