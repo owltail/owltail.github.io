@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
 <channel>
 <title>Amazing Podcast Episodes: ~3x curated episodes per week</title>
@@ -34,6 +34,28 @@ Copyright is owned by the publisher, not this podcast, audio is streamed directl
 <itunes:category text="Society &amp; Culture"/>
 <itunes:category text="Business"/>
 <itunes:category text="Education"/>
+
+  
+  
+<item>
+<title>
+HBR IdeaCast: Building Emotional Agility
+</title>
+<description>
+Susan David, author of "Emotional Agility" and psychologist at Harvard Medical School, on learning to unhook from strong feelings.
+</description>
+<pubDate>Thu, 10 Aug 2017 09:00:00 +0000</pubDate>
+<itunes:author>Harvard Business Review</itunes:author>
+<itunes:subtitle>
+Susan David, author of "Emotional Agility" and psychologist at Harvard Medical School, on learning to unhook from strong feelings.
+</itunes:subtitle>
+<itunes:summary>
+Susan David, author of "Emotional Agility" and psychologist at Harvard Medical School, on learning to unhook from strong feelings.
+</itunes:summary>
+<itunes:duration>1848</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/hbsp/543__Building_Emotional_Agility.mp3" length="29745660"/>
+</item>
 
   
   
