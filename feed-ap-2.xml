@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
 <channel>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<channel>
 <title>Amazing Podcast Episodes: ~3x curated episodes per week</title>
 <description>
 Curating &amp; reposting the ~3 best podcasts per week.
@@ -54,7 +57,7 @@ Journaling is a bit of a buzzword in the productivity space, but with good reaso
 </itunes:summary>
 <itunes:duration>01:11:33</itunes:duration>
 <itunes:explicit>no</itunes:explicit>
-<enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/hwcdn.libsyn.com/p/0/4/d/04d7b034f03ce488/154_-_The_Productivity_Show_-_How_Journaling_Can_Make_You_Happier.mp3" length="0"/>
+<enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/productivityshow/154_-_The_Productivity_Show_-_How_Journaling_Can_Make_You_Happier.mp3" length="0"/>
 </item>
   
   
